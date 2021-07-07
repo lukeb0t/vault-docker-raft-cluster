@@ -10,7 +10,7 @@ Disclaimer: DO NOT RUN IN PRODUCTION. This is for test/dev only.
 Requirements
 ----
   - Docker Desktop
-  - Vault Client Installed in $Path
+  - Vault Client Installed in $path
 
 ----
 Stand-up Cluster
