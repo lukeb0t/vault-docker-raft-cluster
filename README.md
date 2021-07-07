@@ -1,5 +1,10 @@
 # vault-docker-raft-cluster
-Simple Docker desktop script for a 3-Node Raft Cluster of Hashicorp Vault for Linux / OSX.
+Simple Docker desktop script for a 3-Node Raft Cluster of Hashicorp Vault 1.7 Enterprise for Linux / OSX. Due to license restrictions, the cluster will seal itself after 6 hours if no license file is applied. 
+
+---
+Disclaimer: DO NOT RUN IN PRODUCTION. This is for test/dev only.
+---
+
 
 ----
 Requirements
